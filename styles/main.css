@@ -6,7 +6,7 @@ main {
 }
 
 main img {
-  width: 286;
-  height: 286;
+  width: 286px;
+  height: 286px;
   object-fit: cover;
 }
